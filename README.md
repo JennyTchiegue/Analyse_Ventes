@@ -16,13 +16,13 @@ Visualiser les tendances de vente, les préférences des clients et les axes d�
 Optimiser les visualisations pour améliorer l’interprétation des données et la prise de décision.
 
 ## Stack Technique
-# Power BI : Outil principal pour la création du tableau de bord et des visualisations.
+ Power BI : Outil principal pour la création du tableau de bord et des visualisations.
 
-# Power Query : Utilisé pour le nettoyage et la transformation des données.
+ Power Query : Utilisé pour le nettoyage et la transformation des données.
 
-# DAX (Data Analysis Expressions) : Utilisé pour créer des mesures calculées et des colonnes dans Power BI.
+ DAX (Data Analysis Expressions) : Utilisé pour créer des mesures calculées et des colonnes dans Power BI.
 
-# Microsoft Excel : Utilisé pour l’importation et l’analyse initiale des données.
+ Microsoft Excel : Utilisé pour l’importation et l’analyse initiale des données.
 
 ## Étapes du Projet
 # 1. Importation et Préparation des Données
