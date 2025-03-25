@@ -25,19 +25,19 @@ Optimiser les visualisations pour améliorer l’interprétation des données et
  Microsoft Excel : Utilisé pour l’importation et l’analyse initiale des données.
 
 ## Étapes du Projet
-# 1. Importation et Préparation des Données
+ 1. Importation et Préparation des Données
 Importation des données : Les données de ventes ont été importées depuis plusieurs fichiers (CSV, Excel).
 
 Nettoyage des données : Suppression des doublons, gestion des valeurs manquantes, et conversion des formats de données (dates, montants).
 
 Transformation des données : Utilisation de Power Query pour transformer les données en format exploitable.
 
-# 2. Calculs et Mesures avec DAX
+ 2. Calculs et Mesures avec DAX
 Création de mesures calculées pour obtenir des KPIs tels que Total des ventes, Marge bénéficiaire, et Panier moyen.
 
 Ajout de colonnes calculées comme le panier moyen par client, la fréquence d'achat.
 
-# 3. Création de Graphiques Interactifs
+ 3. Création de Graphiques Interactifs
 Histogrammes : Affichage de l’évolution des ventes sur différentes périodes.
 
 Carte géographique : Visualisation des ventes par région ou par magasin.
@@ -46,12 +46,12 @@ Graphiques en anneau : Distribution des ventes par catégorie de produits.
 
 Courbes : Tendances de ventes sur plusieurs années ou mois.
 
-# 4. Construction du Tableau de Bord
+ 4. Construction du Tableau de Bord
 Tableau de bord interactif permettant aux utilisateurs de filtrer les données en fonction de différents critères (dates, produits, magasins).
 
 Utilisation de slicers pour affiner les visualisations.
 
-# 5. Optimisation des Visualisations
+ 5. Optimisation des Visualisations
 Amélioration de l’ergonomie des visualisations avec des couleurs et des mises en forme conditionnelles pour attirer l'attention sur les informations clés.
 
  Création de visualisations claires pour une interprétation rapide et précise des données.
@@ -66,7 +66,7 @@ Modifier
 ├── README.md               # Documentation principale du projet
                 
 ## Instructions d'Installation
-# Prérequis
+ Prérequis
 Power BI Desktop : Téléchargez et installez Power BI à partir de ce lien.
 
 Fichiers de données : Téléchargez les fichiers de données depuis le dossier Data/ dans ce projet.
