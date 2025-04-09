@@ -26,7 +26,7 @@ Optimiser les visualisations pour améliorer l’interprétation des données et
 
 ## Étapes du Projet
  1. Importation et Préparation des Données
-Importation des données : Les données de ventes ont été importées depuis plusieurs fichiers (CSV, Excel).
+Importation des données : Les données de ventes ont été importées depuis un fichier excel.
 
 Nettoyage des données : Suppression des doublons, gestion des valeurs manquantes, et conversion des formats de données (dates, montants).
 
